@@ -10,6 +10,7 @@ Very simple unix fetching tool made in rust
 # requirments
 - must be using any nerd font (for emoji)
 - terminal should support colors
+- should have `rust` or `rustup` installed
 
 # usage
 - `./exfetch`
