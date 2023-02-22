@@ -7,5 +7,9 @@ Very simple unix fetching tool made in rust
 - build it `bash ./build.sh`
 - done!
 
+# requirments
+- must be using any nerd font (for emoji)
+- terminal should support colors
+
 # usage
 - `./exfetch`
